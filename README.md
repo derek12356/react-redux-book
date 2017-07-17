@@ -1,1 +1,1 @@
-# react-redux-book
+simple book list app using react&redux
